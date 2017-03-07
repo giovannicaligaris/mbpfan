@@ -45,6 +45,7 @@ This section reports those models where mbpfan was tested successfully. It does 
 - MacBook Pro 6,2 15"  (Intel i7 - Linux 3.5.0)
 - MacBook Pro 6,2 15"  (Intel i7 - Linux 3.2.0)
 - MacBook Pro 2,2 15"  (Intel Core 2 Duo - Linux 3.4.4)
+- Macbook Pro 2,1 17"  (Intel Core 2 Duo - Linux 4.10)
 - MacBook Air 5,2 13"  (Intel i5 - Linux 3.16)
 - MacBook Air 1,1 13"  (Intel Core Duo - Linux 4.4, Linux 4.8)
 - MacBook 1,1 (Intel Core Duo - Linux 3.16)
